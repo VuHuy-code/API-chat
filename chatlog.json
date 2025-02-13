@@ -43,5 +43,15 @@
     "id": "1739418380803",
     "text": "Phân loại: Ăn uống, Tiền: không rõ",
     "isUser": false
+  },
+  {
+    "id": "1739418392185",
+    "text": "tổng tiền ăn uống",
+    "isUser": true
+  },
+  {
+    "id": "1739418392725",
+    "text": "Để phân loại chi phí, tôi cần thông tin cụ thể hơn về số tiền. Bạn có thể cung cấp số tiền cụ thể không?",
+    "isUser": false
   }
 ]

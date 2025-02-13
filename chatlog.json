@@ -3,5 +3,15 @@
     "id": "1",
     "text": "Xin chào! Tôi có thể giúp gì cho bạn?",
     "isUser": false
+  },
+  {
+    "id": "1739452898901",
+    "text": "xin chào",
+    "isUser": true
+  },
+  {
+    "id": "1739452900251",
+    "text": "Xin chào! Tôi có thể giúp gì cho bạn hôm nay?",
+    "isUser": false
   }
 ]

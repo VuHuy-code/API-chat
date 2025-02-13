@@ -3,55 +3,5 @@
     "id": "1",
     "text": "Xin chào! Tôi có thể giúp gì cho bạn?",
     "isUser": false
-  },
-  {
-    "id": "1739418286194",
-    "text": "xin chào",
-    "isUser": true
-  },
-  {
-    "id": "1739418287263",
-    "text": "Xin chào! Tôi có thể giúp gì cho bạn không?",
-    "isUser": false
-  },
-  {
-    "id": "1739418317165",
-    "text": "ăn sáng 200k",
-    "isUser": true
-  },
-  {
-    "id": "1739418317709",
-    "text": "Phân loại: Ăn uống, Tiền: 200,000 VNĐ",
-    "isUser": false
-  },
-  {
-    "id": "1739418372396",
-    "text": "mỳ quảng 100k",
-    "isUser": true
-  },
-  {
-    "id": "1739418372944",
-    "text": "Phân loại: Ăn uống, Tiền: 100,000 VNĐ",
-    "isUser": false
-  },
-  {
-    "id": "1739418380319",
-    "text": "tiền ăn uống",
-    "isUser": true
-  },
-  {
-    "id": "1739418380803",
-    "text": "Phân loại: Ăn uống, Tiền: không rõ",
-    "isUser": false
-  },
-  {
-    "id": "1739418392185",
-    "text": "tổng tiền ăn uống",
-    "isUser": true
-  },
-  {
-    "id": "1739418392725",
-    "text": "Để phân loại chi phí, tôi cần thông tin cụ thể hơn về số tiền. Bạn có thể cung cấp số tiền cụ thể không?",
-    "isUser": false
   }
 ]

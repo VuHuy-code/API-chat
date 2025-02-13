@@ -3,5 +3,15 @@
     "id": "1",
     "text": "Xin chào! Tôi có thể giúp gì cho bạn?",
     "isUser": false
+  },
+  {
+    "id": "1739457907269",
+    "text": "ăn bún 200k",
+    "isUser": true
+  },
+  {
+    "id": "1739457908205",
+    "text": "Phân loại: Ăn uống, Tiền: 200,000 VNĐ",
+    "isUser": false
   }
 ]

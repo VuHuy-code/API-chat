@@ -33,5 +33,15 @@
     "id": "1739418372944",
     "text": "Phân loại: Ăn uống, Tiền: 100,000 VNĐ",
     "isUser": false
+  },
+  {
+    "id": "1739418380319",
+    "text": "tiền ăn uống",
+    "isUser": true
+  },
+  {
+    "id": "1739418380803",
+    "text": "Phân loại: Ăn uống, Tiền: không rõ",
+    "isUser": false
   }
 ]
